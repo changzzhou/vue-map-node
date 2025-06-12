@@ -1,0 +1,65 @@
+{
+	"cache_256": {
+		"x": 1,
+		"y": 1,
+		"width": 256,
+		"height": 256,
+		"pixelRatio": "2"
+	},
+	"cloudflare_256": {
+		"x": 1,
+		"y": 259,
+		"width": 256,
+		"height": 256,
+		"pixelRatio": "2"
+	},
+	"dc_256": {
+		"x": 1,
+		"y": 517,
+		"width": 256,
+		"height": 256,
+		"pixelRatio": "2"
+	},
+	"idc_256": {
+		"x": 259,
+		"y": 1,
+		"width": 256,
+		"height": 256,
+		"pixelRatio": "2"
+	},
+	"link_256": {
+		"x": 517,
+		"y": 1,
+		"width": 256,
+		"height": 256,
+		"pixelRatio": "2"
+	},
+	"oc_256": {
+		"x": 259,
+		"y": 259,
+		"width": 256,
+		"height": 256,
+		"pixelRatio": "2"
+	},
+	"point_256": {
+		"x": 259,
+		"y": 517,
+		"width": 256,
+		"height": 256,
+		"pixelRatio": "2"
+	},
+	"star_256": {
+		"x": 517,
+		"y": 259,
+		"width": 256,
+		"height": 256,
+		"pixelRatio": "2"
+	},
+	"tencent_256": {
+		"x": 517,
+		"y": 517,
+		"width": 256,
+		"height": 256,
+		"pixelRatio": "2"
+	}
+}
